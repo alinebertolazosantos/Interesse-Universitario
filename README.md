@@ -1,5 +1,5 @@
 # Interesse-Universitario
-Align="justify"Foi proposto desenvolver uma plataforma informativa sobre os dados do Prouni para auxiliar os estudantes. Utilizando os dados abertos disponibilizados pelo MEC com mais de 160.000 registros foi feita um tratamento de dados através do PL/SQL e criado um site pelo APEX.
+<h1 align="justify"> Foi proposto desenvolver uma plataforma informativa sobre os dados do Prouni para auxiliar os estudantes. Utilizando os dados abertos disponibilizados pelo MEC com mais de 160.000 registros foi feita um tratamento de dados através do PL/SQL e criado um site pelo APEX. </h6>  
 
 Dados escolhidos para análise:
  <br> Quantidade de bolsa por ano
